@@ -1,4 +1,3 @@
-import { NativeAd } from "./NativeAd";
 import Header from "./Header";
 import Footer from "./Footer";
 
